@@ -21,7 +21,7 @@ works on any of the following operating systems:
 # How to Install
 * Open the terminal and type `<pkg install git>`
 * Then`<git clone https://github.com/karver195-source/elliotshackingtools>`
-* `<cd ALHacking>`
+* `<cd elliotshackingtools>`
 * `<bash alhack.sh>`
 
 
