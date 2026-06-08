@@ -12,10 +12,10 @@ echo -e '\033[31;40;1m
   github: https://github.com/4lbH4cker
 \033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m 4lbH4cker
 
-\e[37m[1]\e[36m Requests & Update        \e[37m[2]\e[36m Phishing Tool				
+\e[37m[1]\e[36m Requests & Update         \e[37m[2]\e[36m Phishing Tool				
 \e[37m[3]\e[36m WebCam Hack                   \e[37m[4]\e[36m Subscan			
 \e[37m[5]\e[36m Gmail Bomber		  \e[37m[6]\e[36m DDOS Attack			
-\e[37m[7]\e[36m How to use	          \e[37m[8]\e[36m Uninstall downloaded programs		
+\e[37m[7]\e[36m How to use	          	  \e[37m[8]\e[36m Uninstall downloaded programs		
 \e[37m[9]\e[36m Ip Info	                  \e[37m[10]\e[36m dorks-eye
 \e[37m[11]\e[36m HackerPro                    \e[37m[12]\e[36m RED_HAWK
 \e[37m[13]\e[36m VirusCrafter                 \e[37m[14]\e[36m Info-Site
